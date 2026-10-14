@@ -1,0 +1,8 @@
+.build/
+build/
+MacCleaner.app
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+.idea/
+.vscode/
