@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Architecture-Apple%20Silicon%20(ARM64)-cyan?style=flat-square&logo=apple" alt="Apple Silicon"/>
   <img src="https://img.shields.io/badge/Swift-6.4-orange?style=flat-square&logo=swift" alt="Swift 6.4"/>
   <img src="https://img.shields.io/badge/UI-SwiftUI%20%2B%20Glassmorphism-purple?style=flat-square" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/>
+  <img src="https://img.shields.io/badge/License-GPLv3-blue?style=flat-square" alt="License"/>
 </p>
 
 ---
@@ -158,3 +158,13 @@ Mac cleaner/
 <p align="center">
   Made for macOS with ❤️ using Swift & SwiftUI.
 </p>
+
+---
+
+## 📄 License
+
+Copyright (C) 2026 Yuvraj Poudyal
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](LICENSE) for more details.
